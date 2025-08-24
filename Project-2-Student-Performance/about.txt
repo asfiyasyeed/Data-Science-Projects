@@ -1,0 +1,12 @@
+Project 2: Student Performance Prediction (Regression)
+🎯 Goal
+The goal of this project was to build an end-to-end machine learning model to predict a student's final grade (G3) based on their academic and demographic data.
+
+📊 Dataset
+This project uses the Student Performance Data Set from the UCI Machine Learning Repository, sourced via Kaggle.
+
+Dataset: The Student Performance Data Set was sourced from Kaggle.
+🚀 Model Performance
+Model Used: Linear Regression
+R-squared (R²): Approximately 0.86. This means the model can explain about 86% of the variability in the students' final grades.
+Mean Absolute Error (MAE): Approximately 1.16. On average, the model's predictions were off by about one grade point.
