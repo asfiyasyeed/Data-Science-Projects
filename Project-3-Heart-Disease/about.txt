@@ -1,0 +1,10 @@
+Project 3: Comparing Classification Algorithms
+🎯 Goal
+The goal was to build and compare two different classification models (Logistic Regression and Random Forest) to predict the presence of heart disease.
+
+📊 Dataset
+This project uses the Heart Disease UCI dataset, sourced from Kaggle. The Heart Disease UCI dataset was sourced from Kaggle.
+
+🚀 Model Comparison
+Best Performing Model: Random Forest achieved the highest accuracy (~85%). This is likely due to its ability to capture complex, non-linear patterns in the data.
+Fastest & Most Interpretable Model: Logistic Regression was much faster to train and is more interpretable, as its coefficients directly explain the influence of each feature on the prediction.
