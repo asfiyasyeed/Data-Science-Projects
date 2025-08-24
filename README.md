@@ -10,6 +10,8 @@ This project uses the classic **Titanic Dataset**, sourced from Kaggle/Seaborn's
 - **Gender:** Females had a significantly higher survival rate (over 70%) compared to males (under 20%).
 - **Passenger Class:** First-class passengers had a much higher chance of survival than those in third class.
 - **Family Size:** Passengers traveling in small families (2-4 members) had a better survival rate than those traveling alone or in very large families.
+-  **Dataset:** The classic **Titanic dataset** was loaded directly from the Seaborn library in Python. No external file was needed.
+
 
 # Project 2: Student Performance Prediction (Regression)
 
@@ -18,6 +20,7 @@ The goal of this project was to build an end-to-end machine learning model to pr
 
 ## 📊 Dataset
 This project uses the **Student Performance Data Set** from the UCI Machine Learning Repository, sourced via Kaggle.
+* **Dataset:** The **[Student Performance Data Set](https://www.kaggle.com/datasets/larsen096/student-performance-data-set)** was sourced from Kaggle.
 
 ## 🚀 Model Performance
 - **Model Used:** Linear Regression
@@ -31,6 +34,7 @@ The goal was to build and compare two different classification models (Logistic 
 
 ## 📊 Dataset
 This project uses the **Heart Disease UCI dataset**, sourced from Kaggle.
+The **[Heart Disease UCI dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-uci)** was sourced from Kaggle.
 
 ## 🚀 Model Comparison
 - **Best Performing Model:** **Random Forest** achieved the highest accuracy (~85%). This is likely due to its ability to capture complex, non-linear patterns in the data.
